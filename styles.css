@@ -1,0 +1,121 @@
+body{
+    text-align: center;
+    color: #4054AE
+    font-family: 'Merriweather', serif;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 3.5rem;
+    color: #66BFBF;
+    line-height: 200%;
+}
+h2{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: #66BFBF;
+}
+h3{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 1.5rem;
+    color: #11999E
+}
+a{
+    color: #11999E;
+}
+a:hover{
+    color: #66BFBF;
+}
+.margin_0{
+    margin: 0px;
+}
+
+.first_div{
+    padding-top: 100px;
+    background-color: #E4f9f5;
+}
+
+.bottom-cloud{
+    position: absolute;
+    top: 200px;
+    left: 450px;
+}
+.top-cloud{
+    position: absolute;
+    right: 400px;
+    top: 30px;
+}
+.skill-row{
+    width: 50%;
+    margin: 70px auto;
+    text-align: left;
+    line-height: 2;
+}
+.img_width25{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.img2_width25{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+hr{
+    width: 10%;
+    border-style: none;
+    border-top: dotted 16px;
+    border-color: #EAF6F6;
+}
+.profile{
+    margin: 50px auto;
+    width: 30%;
+}
+.skills{
+    margin: 50px auto;
+}
+.contact-me{
+    margin: 50px auto;
+}
+.font_increase{
+    font-size: 3rem;
+}
+.btn {
+  background-image: linear-gradient(to right, #11cdd4 0%, #30e3cb  51%, #11999e  100%);
+  transition: 0.5s;
+  background-size: 200% auto;
+  box-shadow: 0 0 20px #eee;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+  margin-top: 50px;
+}
+.btn:hover{
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+}
+.last_div{
+    background-color: #E4f9f5;
+}
+.footer-link{
+    display: inline-block;
+    text-decoration: none;
+    margin: 20px auto 0 auto;
+    padding: 8px;
+
+
+}
+.p_last_margin{
+    margin: 0px auto 0px auto;
+    padding: 18px;
+    color: #11cdd4;
+    font-size: 0.75rem;
+}
+p{
+    line-height: 2;
+}
